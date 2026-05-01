@@ -3,7 +3,13 @@ import React from "react";
 
 const settings = () => {
   return (
-    <View>
+    <View
+      style={{
+        flex: 1,
+        justifyContent: "center",
+        alignContent: "center",
+      }}
+    >
       <Text>settings</Text>
     </View>
   );
