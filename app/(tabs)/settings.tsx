@@ -7,7 +7,6 @@ const settings = () => {
       style={{
         flex: 1,
         justifyContent: "center",
-        alignContent: "center",
       }}
     >
       <Text>settings</Text>
